@@ -9,3 +9,10 @@ body{
 .paragraph{
     font-size: 14px;
 }
+.card-bodybg{
+    background-color: #F4FAFD
+    ;
+}
+.myimage img{
+     filter: brightness(40%);
+}
