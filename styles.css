@@ -20,3 +20,9 @@ body{
         font-weight: 700;  
 }
   }
+  @media only screen and (max-width: 768px){
+    .carousel-caption{
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+  }
